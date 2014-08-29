@@ -1,0 +1,22 @@
+//Abby Sprinkel
+//8/27/2014
+//Homework 1- Welcome Class
+
+//Create the class
+
+public class WelcomeClass{
+
+    //add method
+    public static main (String [] args){
+    
+        //create the print statement
+        
+        System.out.println("-------------");
+        System.out.println("|  Welcome  |");
+        System.out.println("-------------");
+        
+        System.out.println("  ^  ^  ^  ^  ^  ^  ");
+        System.out.println(" / \/ \/ \/ \/ \/ \ ");
+        System.out.println("|-A--E--S--2--1--5-|");
+        System.out.println(" \ /\ /\ /\ /\ /\ / ");
+        System.out.println("  v  v  v  v  v  v  ");
