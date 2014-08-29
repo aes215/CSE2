@@ -15,9 +15,10 @@ public class WelcomeClass{
         System.out.println("|  Welcome  |");
         System.out.println("-------------");
         
+        //use the double backslash for special characters
         System.out.println("  ^  ^  ^  ^  ^  ^  ");
-        System.out.println(" / \\/ \\/ \\/ \\/ \\/ \\ "); //use the double backslash
-        System.out.println("|-A--E--S--2--1--5-|");       //for special characters
+        System.out.println(" / \\/ \\/ \\/ \\/ \\/ \\ "); 
+        System.out.println("|-A--E--S--2--1--5-|");       
         System.out.println(" \\ /\\ /\\ /\\ /\\ /\\ / ");
         System.out.println("  v  v  v  v  v  v  ");
         
